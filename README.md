@@ -8,7 +8,7 @@ Hello, my name is Yorian Ixcol. I am a new programmer, and this year I discovere
 
 This portfolio project represents my learning journey throughout the year. I explored the complexities of coding and gained a better appreciation for developers' skills. I learned the basics of computers, including binary code and C++, and was introduced to web development languages like HTML, CSS, and JavaScript. Designing with these languages quickly became one of my favorite things to do. Although it sometimes required time that was hard to find, I always found the process enjoyable.
 
-Beyond academics, this class taught me a valuable life lesson: even if things don’t turn out as planned, it doesn’t mean all is lost. The loss of Mr. Moreno was a significant challenge, but we persevered. I appreciate everyone who helped make our academic journey smoother during that time, especially Mr. Alvarado. This class was really cool, and despite the year being unusual, it taught me many great things. Muchas gracias.
+This project showcases what I’ve learned in computer science this year. I built simple games using HTML, CSS, and JavaScript, and learned how to structure a website, write interactive code, and solve problems like a developer. It was a fun and challenging way to apply everything I’ve learned. This class impacted me in a beyond academic way, as it also taught me to face unexpected challenges of life, and to persist. 
 
 ## Portfolio Overview
 
