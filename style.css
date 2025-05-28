@@ -29,7 +29,7 @@ body {
 }
 
 .project-card:hover {
-  background-color: #2980b9;
+  background-color: #2976BB;
 }
 -------
 .header-image {
@@ -100,5 +100,6 @@ body {
 }
 
 .contact{
-        background-color: #7EA4E9;
+        background-color: #2976BB;
       }
+
