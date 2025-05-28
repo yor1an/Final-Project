@@ -7,14 +7,12 @@
     font-size: 50px;
     cursor: pointer;
 }
-/* Determines the cell's width, height, the size of the cell's border, box-shadows which atempts to give the game a 3D look, centers the X or O vertically in the middle of the cell (line-height), fint size inside of text inside the cells and lastly, cursor makes the *cursor* into a pinter, creating a hovering effect.*/
 
 #gameContainer{
     font-family: "Permanent Marker";
     text-align: center;
     padding: 55px;
 }
-/* Sets the font to "Permanent Marker", centers the text within the container, and adds 55px of padding around the content inside the game container. */
 
 #cellContainer{
     display: grid;
@@ -23,11 +21,11 @@
     margin: auto;
     background: #ffffff
 }
-/* Uses a grid layout to arrange the cells in 3 columns that are all the same, sets the container width to 235px, centers the container horizontally with margin (auto), and gives the container a white background (#ffffff). */
-  body{
+
+body{
          background: #00b4d8 
        }
-/* Gives the background a very light blue. */
+
 #restartBtn{
   border: 2px solid;
   background: #ffffff
