@@ -36,7 +36,7 @@
 .return-home {
   display: inline-block;
   margin-top: 20px;
-  font-family: Arial, sans-serif;
+  font-family: Times New Roman, sans-serif;
   font-size: 16px;
   text-decoration: none;
   color: #333;
@@ -47,6 +47,7 @@
 .return-home:hover {
   background-color: #ddd;
 }
+
 
 /* Adds a 2px solid border and sets the background color of the restart button to white. */
 
