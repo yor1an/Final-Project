@@ -2,13 +2,11 @@
 
 ## About Me
 
-Hello, my name is Yorian Ixcol. I am a new programmer, and this year I discovered the complexities that come with being a coder. I am a patient coder and a very outgoing one. When I have questions, I try my best to ask. I try to recognize the fact that I'm no expert, but also don't let that completely define me. I like to learn. This is why I consider myself a very beginner-level developer. This only pushes me to continue pursuing technological knowledge and trying to master coding.
+Hello, my name is Yorian Ixcol. I am a junior in highschool and enjoy learning new things about technology. This interest grew when I decided to Take APCSP last year and it has been one of the coolest experiences of highschool. 
 
 ## Project Overview
 
-This portfolio project represents my learning journey throughout the year. I explored the complexities of coding and gained a better appreciation for developers' skills. I learned the basics of computers, including binary code and C++, and was introduced to web development languages like HTML, CSS, and JavaScript. Designing with these languages quickly became one of my favorite things to do. Although it sometimes required time that was hard to find, I always found the process enjoyable.
-
-This project showcases what I’ve learned in computer science this year. I built simple games using HTML, CSS, and JavaScript, and learned how to structure a website, write interactive code, and solve problems like a developer. It was a fun and challenging way to apply everything I’ve learned. This class impacted me in a beyond academic way, as it also taught me to face unexpected challenges of life, and to persist. 
+This portfolio project represents my learning journey throughout the year. I explored the complexities of coding and gained a better appreciation for developers' skills. I learned the basics of computers, including binary code and C++, and was introduced to web development languages like HTML, CSS, and JavaScript. Designing with these languages quickly became one of my favorite things to do. I always found the process enjoyable.This project showcases what I’ve learned in computer science this year. I built simple games using HTML, CSS, and JavaScript, and learned how to structure a website, write interactive code, and solve problems like a developer. It was a fun and challenging way to apply everything I’ve learned. This class impacted me in a beyond academic way, as it also taught me to face unexpected challenges of life, and to persist. 
 
 ## Portfolio Overview
 
